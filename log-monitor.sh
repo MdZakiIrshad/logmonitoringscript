@@ -45,7 +45,7 @@ echo "Log Monitoring Summary:"
 echo "  - Errors: $error_count"
 echo "  - Warnings: $warning_count"
 
-# Print top error message (if captured)
+# Printing top error messages
 if [[ -n "$top_error_message" ]]; then
   echo "  - Top Error Message:"
   echo "    - $top_error_message"
