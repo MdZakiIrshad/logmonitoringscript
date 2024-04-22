@@ -23,7 +23,7 @@ Informs the user that monitoring has stopped.
 # Exit:
 Script exits with a successful exit code (0).
 
-# Here is how to use this :
-1.Save the script as a file (e.g., log_monitor.sh).
-2.Make the script executable: chmod +x log_monitor.sh.
-3.Run the script, specifying the log file path as an argument: ./log_monitor.sh /var/log/your_logfile.log
+**Here is how to use this :**
+1. Save the script as a file (e.g., log_monitor.sh).
+2. Make the script executable: chmod +x log_monitor.sh.
+3. Run the script, specifying the log file path as an argument: ./log_monitor.sh /var/log/your_logfile.log
