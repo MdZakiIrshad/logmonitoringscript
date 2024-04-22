@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define log file path (modify as needed)
+# Define log file path 
 LOG_FILE="$1"
 
 # Function to log messages and exit on error
